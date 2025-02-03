@@ -1,4 +1,5 @@
 # AirBNB Analysis
+![AirBnB-San-Francisco-Headquarters-Are-Inspired-by-Their-Own-Listings-feat-959x410](https://github.com/user-attachments/assets/2227827a-82b9-48d2-b6bb-a3753f1fa7e4)
 
 ## Overview
 The AirBNB Analysis project provides insights into various listings on AirBNB, utilizing data analysis techniques to explore trends, pricing, and host characteristics in the Paris area. This analysis is performed using a Jupyter Notebook.
